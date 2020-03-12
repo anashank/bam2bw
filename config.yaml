@@ -1,0 +1,10 @@
+# Enter sample details
+samples:
+  test1: data/test1.bam
+
+# Parameters for bigwig conversion
+
+normMethod: RPKM
+
+bwParams: ""
+
